@@ -2,8 +2,6 @@
 
 A Kanban board built from scratch in React — no state management libraries, no drag-and-drop shortcuts left unexplained.
 
-**[Live Demo](#)** _(add your deployed link here)_ · **[Repo](#)**
-
 ![Collably board overview](./src/assets/overview.png)
 
 ---
