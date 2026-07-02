@@ -87,4 +87,4 @@ npm run dev
 
 ---
 
-Built by [Your Name] — [LinkedIn](#) · [GitHub](#)
+Built by [shreyas kumar] — [LinkedIn](https://www.linkedin.com/in/shreyas-kumar-3455aa1a4/) · [GitHub](https://github.com/sheyas29)
